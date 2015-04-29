@@ -1,0 +1,9 @@
+package block;
+
+public class BlockFlag extends BlockL
+{
+	public BlockFlag()
+	{
+		super();
+	}
+}

@@ -1,0 +1,14 @@
+package init;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import item.*;
+
+public class ModItems 
+{
+	public static final ItemL item1 = new Item1();
+	
+	public static void init()
+	{
+		GameRegistry.registerItem(item1, "Test");
+	}
+}

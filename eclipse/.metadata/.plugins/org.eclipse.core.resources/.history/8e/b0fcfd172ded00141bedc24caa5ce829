@@ -1,0 +1,13 @@
+package init;
+
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemStack;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class Recipes 
+{
+	public static void init()
+	{
+		GameRegistry.addRecipe(new ItemStack(ModItems.item1), " s ", "sss", " s ", 's', new ItemStack(Items.stick));
+	}
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPreInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="proxy.IProxy"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Level"/>
+<fullyQualifiedTypeName name="proxy.ClientProxy"/>
+<fullyQualifiedTypeName name="proxy.ServerProxy"/>
+<fullyQualifiedTypeName name="utility.LogHelper"/>
+<fullyQualifiedTypeName name="init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="init.ModBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry.ObjectHolder"/>
+<fullyQualifiedTypeName name="reference.Reference"/>
+<fullyQualifiedTypeName name="creativetab.CreativeTabL"/>
+<fullyQualifiedTypeName name="init.Recipes"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
+<fullyQualifiedTypeName name="net.minecraftforge.oredict.ShapedOreRecipe"/>
+</qualifiedTypeNameHistroy>

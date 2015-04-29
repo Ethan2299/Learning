@@ -1,0 +1,8 @@
+package init;
+
+import item.ItemL;
+
+public class ModItems 
+{
+	public static final ItemL item1 = new item1();
+}

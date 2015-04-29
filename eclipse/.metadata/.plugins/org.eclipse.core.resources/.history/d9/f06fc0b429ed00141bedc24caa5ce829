@@ -1,0 +1,13 @@
+package item;
+
+import creativetab.CreativeTabL;
+
+public class Item1 extends ItemL 
+{
+	public Item1()
+	{
+		super();
+		this.setUnlocalizedName("item1");
+		this.setCreativeTab(CreativeTabL.L_TAB);
+	}
+}

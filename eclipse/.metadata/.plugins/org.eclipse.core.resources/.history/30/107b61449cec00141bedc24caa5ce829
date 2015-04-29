@@ -1,0 +1,10 @@
+package init;
+
+import block.*;
+
+public class ModBlocks 
+{
+	public static final BlockL flag = new BlockFlag();
+	
+	
+}

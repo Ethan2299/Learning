@@ -1,0 +1,15 @@
+package item;
+
+import init.ModItems;
+import net.minecraft.item.ItemStack;
+import creativetab.CreativeTabL;
+
+public class Item1 extends ItemL 
+{
+	public Item1()
+	{
+		super();
+		this.setUnlocalizedName("item1");
+		this.setCreativeTab(CreativeTabL.L_TAB);
+	}
+}

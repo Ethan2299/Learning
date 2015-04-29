@@ -1,0 +1,8 @@
+package reference;
+
+public class Reference 
+{ 
+	public static final String MOD_ID = "Learning";
+	public static final String MOD_NAME = "Learning";
+	public static final String MOD_CLIENT_PROXY = "com.ethan.learning.proxy.ClientProxy";
+}

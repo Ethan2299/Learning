@@ -1,0 +1,15 @@
+package init;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import block.BlockFlag;
+import block.BlockL;
+
+public class ModBlocks 
+{
+	public static final BlockL flag = new BlockFlag();
+	
+	public static void init()
+	{
+		GameRegistry.registerBlock(flag, "flag");
+	}
+}

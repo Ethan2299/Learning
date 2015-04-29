@@ -1,0 +1,9 @@
+package init;
+
+import block.BlockFlag;
+import block.BlockL;
+
+public class ModBlocks 
+{
+	public static final BlockL flag = new BlockFlag();
+}

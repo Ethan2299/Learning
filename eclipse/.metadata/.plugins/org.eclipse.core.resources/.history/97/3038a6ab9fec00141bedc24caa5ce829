@@ -1,0 +1,10 @@
+package item;
+
+public class Item1 extends ItemL 
+{
+	public Item1()
+	{
+		super();
+		this.setUnlocalizedName("item1");
+	}
+}

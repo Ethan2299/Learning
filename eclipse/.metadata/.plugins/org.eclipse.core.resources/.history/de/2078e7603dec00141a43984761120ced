@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "learning",
+    "name": "Learning",
+    "description": "My First Mod",
+    "version": "0.0.0.1",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Ethan Richardson" ],
+    "credits": "Authored by Ethan Richardson",
+    "logoFile": "",
+    "screenshots": [ "", "" ],
+    "parent": "",
+    "requiredMods": [ "", "" ],
+    "dependencies": [ "" ],
+    "dependants": [ "" ],
+    "useDependencyInformation": true
+  ]
+}
